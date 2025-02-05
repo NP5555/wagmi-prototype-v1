@@ -18,7 +18,7 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Web3 Frontends',
+  title: 'wagmi-prototype-v1',
   description: 'How frontends interact with smart contracts',
 }
 

@@ -4,7 +4,7 @@ export default function Navbar() {
   return (
     <header className="flex h-20 items-center justify-between px-6">
       <Link href="/">
-        <h2 className="text-3xl font-semibold">Web3 Frontends</h2>
+        <h2 className="text-3xl font-semibold">wagmi-prototype-v1</h2>
       </Link>
       <div className="flex gap-6 text-xl">
         <Link
